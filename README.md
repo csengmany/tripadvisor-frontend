@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-![screen_tripadvisor_clone](/tripadvisor-frontend/asset/img/tripadvisor-cathy.png)
+![screen_tripadvisor_clone](tripadvisor-cathy.png)
